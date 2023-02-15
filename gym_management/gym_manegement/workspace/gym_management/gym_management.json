@@ -1,0 +1,124 @@
+{
+ "cards_label": "Reports",
+ "category": "Modules",
+ "charts": [],
+ "creation": "2023-02-15 12:07:06.145862",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Gym Management",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Class Bookings",
+   "link_to": "Class Bookings",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Membership Report",
+   "link_to": "Membership Report",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Member Progress",
+   "link_to": "Fitness Report",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2023-02-15 12:09:51.523513",
+ "modified_by": "Administrator",
+ "module": "Gym Manegement",
+ "name": "Gym Management",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 1,
+ "shortcuts": [
+  {
+   "color": "#b0acac",
+   "doc_view": "List",
+   "label": "Gym Locker",
+   "link_to": "Gym Locker",
+   "type": "DocType"
+  },
+  {
+   "color": "#b0acac",
+   "doc_view": "List",
+   "label": "Gym Subscription",
+   "link_to": "Gym Subscription",
+   "type": "DocType"
+  },
+  {
+   "color": "#29CD42",
+   "doc_view": "List",
+   "label": "Member",
+   "link_to": "Person",
+   "type": "DocType"
+  },
+  {
+   "color": "#b0acac",
+   "doc_view": "List",
+   "label": "Gym Membership",
+   "link_to": "GMembership",
+   "type": "DocType"
+  },
+  {
+   "color": "#b0acac",
+   "doc_view": "List",
+   "label": "Trainer",
+   "link_to": "Gym Trainer",
+   "type": "DocType"
+  },
+  {
+   "color": "#b0acac",
+   "doc_view": "List",
+   "label": "Gym Locker",
+   "link_to": "Gym Locker",
+   "type": "DocType"
+  },
+  {
+   "color": "#b0acac",
+   "doc_view": "List",
+   "label": "Class",
+   "link_to": "Class",
+   "type": "DocType"
+  },
+  {
+   "color": "#b0acac",
+   "doc_view": "List",
+   "label": "Class Booking",
+   "link_to": "Class Booking",
+   "type": "DocType"
+  },
+  {
+   "color": "#b0acac",
+   "doc_view": "List",
+   "label": "Gym Workout Plan",
+   "link_to": "Gym Workout Plan",
+   "type": "DocType"
+  },
+  {
+   "color": "#b0acac",
+   "doc_view": "List",
+   "label": "Member Measurements",
+   "link_to": "Person Metrics",
+   "type": "DocType"
+  }
+ ]
+}
